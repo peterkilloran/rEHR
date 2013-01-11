@@ -1,0 +1,2 @@
+serviceClass: org.pvk.rEHR.client.GreetingService
+path: 12CD34A92475E67F809CA1CD5BA321A3.gwt.rpc

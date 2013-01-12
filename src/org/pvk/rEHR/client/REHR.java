@@ -52,7 +52,7 @@ public class REHR implements EntryPoint {
 		//rootLayout.setHorizontalAlignment(DockPanel.ALIGN_CENTER);
 		
 		HorizontalPanel banner = new HorizontalPanel();
-		banner.add(new Label("Updated rEHR Patient Banner Area"));
+		banner.add(new Label("Updated rEHR Patient Banner Area... again for indigo"));
 		//rootLayout.add(banner, DockPanel.NORTH);
 		
 		SplitLayoutPanel resizeableLayout = new SplitLayoutPanel(5);
